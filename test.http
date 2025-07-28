@@ -1,0 +1,38 @@
+GET http://localhost:3000/products/
+Content-Type: application/json
+
+###
+GET http://localhost:3000/products/68866f76584c69b22a4042ff
+Content-Type: application/json
+
+###
+
+POST  http://localhost:3000/products
+Content-Type: application/json
+
+{
+    "productName": "avocat",
+    "price": 1000,
+    "stockStatus": "en stock"
+}
+
+###
+
+PATCH  http://localhost:3000/products/68866e65584c69b22a4042f6/
+Content-Type: application/json
+
+{
+    "productName": "mangue",
+    "price": 5000,
+    "stockStatus": "epetite stock"
+}
+
+###
+
+PATCH  http://localhost:3000/products/68866e65584c69b22a4042f6/petite stock
+
+
+###
+
+DELETE  http://localhost:3000/products/68866f76584c69b22a4042ff
+
