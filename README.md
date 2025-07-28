@@ -39,7 +39,7 @@ Une API RESTful construite avec **Node.js**, **Express** et **MongoDB** pour gé
 
 ## Installation
 1.Cloner le dépôt :
-git clone git@github.com:HisseinHD/gestion_produit.git
+git clone (https://github.com/achtaA-a/gestion-du-produit/commits?author=achtaA-a).git
 cd gestion_produit
 
 2.Installer les dépendances :
