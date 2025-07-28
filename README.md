@@ -27,7 +27,7 @@ Une API RESTful construite avec **Node.js**, **Express** et **MongoDB** pour gé
 
 ---
 
-## 🛠 Technologies utilisées
+##  Technologies utilisées
 
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
@@ -37,5 +37,31 @@ Une API RESTful construite avec **Node.js**, **Express** et **MongoDB** pour gé
 
 ---
 
-## 📁 Structure du projet
+## Installation
+1.Cloner le dépôt :
+git clone git@github.com:HisseinHD/gestion_produit.git
+cd gestion_produit
+
+2.Installer les dépendances :
+npm install
+
+3.Configurer l'environnement :
+
+
+    .Créer un fichier .env à la racine
+    .Ajouter les variables d'environnement ( MONGO_URI= mongodb://127.0.0.1:27017/productsDB, PORT=5000)
+
+
+4.Démarrer le serveur :
+
+npm start
+# ou pour le mode développement
+npm run dev
+
+5.Le serveur tourne sur :http://localhost:5000
+
+POUR TESTER DEPUIS POSTMAN CLIQUER SUR CE LIEN:
+
+
+
 
