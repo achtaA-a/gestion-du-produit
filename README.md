@@ -58,10 +58,17 @@ npm start
 # ou pour le mode développement
 npm run dev
 
-5.Le serveur tourne sur :http://localhost:5000
+5.Le serveur tourne sur :http://localhost:3000
 
 POUR TESTER DEPUIS POSTMAN CLIQUER SUR CE LIEN:
 
+https://gold-meteor-9730607.postman.co/workspace/produits~f3b0ec97-554a-4424-97b1-936c7b65ddd4/request/47074124-121dc899-777b-40ee-a6af-a221593a0ce9?action=share&source=copy-link&creator=47074124
 
+Pour plus dinfos contacter moi:
+
+.Auteur
+Achta Abdelkarim Saboun
+Développeuse Web & Mobile 💻
+Contact : sabounnhala@gmail.com
 
 
